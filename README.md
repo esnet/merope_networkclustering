@@ -1,3 +1,4 @@
+## MEROPE : Clusters for Network Data 
 
 Merope: Unsupervised Learning for Network Operations (Merope)
 Copyright (c) 2020, The Regents of the University of California,
